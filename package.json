@@ -18,6 +18,7 @@
   "homepage": "https://github.com/tristristy/just-tech-news#readme",
   "start": "node server.js",
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "dotenv": "^16.0.1",
     "express": "^4.17.1",
     "mysql2": "^2.3.3",
